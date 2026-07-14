@@ -1,0 +1,56 @@
+{
+    "workbench.colorTheme": "Default High Contrast Light",
+    "workbench.preferredHighContrastColorTheme": "Default High Contrast Light",
+    "workbench.colorCustomizations": {
+        "editor.background": "#D2E0AB",
+        "editor.foreground": "#000000",
+        "foreground": "#000000",
+        "activityBar.background": "#D2E0AB",
+        "activityBar.foreground": "#000000",
+        "sideBar.background": "#D2E0AB",
+        "sideBar.foreground": "#000000",
+        "terminal.background": "#D2E0AB",
+        "terminal.foreground": "#000000",
+        "editorLineNumber.foreground": "#505050",
+        "editorLineNumber.activeForeground": "#000000",
+        "titleBar.activeBackground": "#D2E0AB",
+        "titleBar.activeForeground": "#000000",
+        "menu.background": "#D2E0AB",
+        "menu.foreground": "#000000"
+    },
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "comment",
+                "settings": {
+                    "foreground": "#4E6A31"
+                }
+            },
+            {
+                "scope": "keyword",
+                "settings": {
+                    "foreground": "#003A70",
+                    "fontStyle": "bold"
+                }
+            },
+            {
+                "scope": "string",
+                "settings": {
+                    "foreground": "#6B3E00"
+                }
+            },
+            {
+                "scope": "constant.numeric",
+                "settings": {
+                    "foreground": "#006060"
+                }
+            },
+            {
+                "scope": "entity.name.function",
+                "settings": {
+                    "foreground": "#5A2A83"
+                }
+            }
+        ]
+    }
+}
